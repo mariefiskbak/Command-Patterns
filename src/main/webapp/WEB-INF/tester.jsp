@@ -40,9 +40,11 @@
             <input type="submit"  value="Mark"/>
         </form>
 
+        <br>
+
         <form action="fc/" method="post">
-            <input type="hidden" name="command" value="prüssing"/>
-            <input type="submit"  value="Mark"/>
+            <input type="hidden" name="command" value="prussing"/>
+            <input type="submit"  value="Prüssing"/>
         </form>
 
     </jsp:body>
