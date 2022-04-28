@@ -43,6 +43,13 @@
         <br>
 
         <form action="fc/" method="post">
+            <input type="hidden" name="command" value="nicki"/>
+            <input type="submit"  value="Nicki"/>
+        </form>
+
+        <br>
+
+        <form action="fc/" method="post">
             <input type="hidden" name="command" value="marie"/>
             <input type="submit"  value="Marie"/>
         </form>
