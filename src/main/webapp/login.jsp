@@ -17,8 +17,8 @@
 
         <h3>You can log in here</h3>
 
-        <form action="fc/login" method="post">
-            <input type="hidden" name="command" value="login"/>
+        <form action="fc/" method="post">
+            <input type="hidden" name="command" value="tester"/>
             <label for="username">Username: </label>
             <input type="text" id="username" name="username"/>
             <label for="password">Password: </label>
