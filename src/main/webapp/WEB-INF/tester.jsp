@@ -43,8 +43,8 @@
         <br>
 
         <form action="fc/" method="post">
-            <input type="hidden" name="command" value="timi"/>
-            <input type="submit"  value="Timi"/>
+            <input type="hidden" name="command" value="gonzales"/>
+            <input type="submit"  value="Gonzales"/>
         </form>
 
     </jsp:body>
