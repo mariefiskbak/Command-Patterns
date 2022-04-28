@@ -12,9 +12,8 @@
     <title>Hej du har ramt Gonzales</title>
 
 
-<h1>tis</h1>
-<h1>tis</h1>
-<h1>tis</h1>
+<h1>Du har ramt Gonzales</h1>
+
     <html>
     <body>
 
