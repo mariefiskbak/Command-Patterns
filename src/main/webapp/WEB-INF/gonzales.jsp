@@ -8,9 +8,22 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Hej du har ramt Gonzales</title>
-</head>
 <body>
+    <title>Hej du har ramt Gonzales</title>
+
+
 <h1>tis</h1>
+<h1>tis</h1>
+<h1>tis</h1>
+    <html>
+    <body>
+
+    <h2>HTML Image</h2>
+    <img src="desktop/polish worker.jpeg" alt="polish worker" width="500" height="333">
+
+    </body>
+    </html>
+
 </body>
+</head>
 </html>
