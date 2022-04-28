@@ -21,6 +21,7 @@ abstract class Command
         commands.put("timi", new Timi());
         commands.put("mark", new Mark());
         commands.put("marie", new Marie());
+        commands.put("mikkel", new Mikkel());
     }
 
     static Command from( HttpServletRequest request ) {

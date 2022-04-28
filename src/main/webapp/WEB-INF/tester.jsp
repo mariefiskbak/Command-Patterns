@@ -47,5 +47,12 @@
             <input type="submit"  value="Marie"/>
         </form>
 
+        <br>
+
+        <form action="fc/" method="post">
+            <input type="hidden" name="command" value="mikkel"/>
+            <input type="submit"  value="Mikkel"/>
+        </form>
+
     </jsp:body>
 </t:pagetemplate>
