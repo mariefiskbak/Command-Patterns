@@ -12,6 +12,6 @@ public class Gonzales extends Command
     @Override
     String execute(HttpServletRequest request, HttpServletResponse response) throws DatabaseException
     {
-        return "Gonzales";
+        return "gonzales";
     }
 }
